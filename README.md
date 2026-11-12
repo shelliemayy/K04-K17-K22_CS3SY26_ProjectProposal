@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
+
+### Project Title or Name of the Application	: Dating Sim
 ### Section			   	      : 9-Potassium
 ### Group Members			    : Joan Clare Bron, Nathalie Zhen Lam, Audrianna Faye Mendez
 ### Date (Proposal Date)  : Nov 12, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
