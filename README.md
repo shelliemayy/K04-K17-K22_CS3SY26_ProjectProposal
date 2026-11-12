@@ -1,12 +1,12 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Clare Bron, Nathalie Lam, and Audrey Mendez of 9-Potassium
 
 
 ## Project Proposal Template:
 cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Section			   	      : 9-Potassium
+### Group Members			    : Joan Clare Bron, Nathalie Zhen Lam, Audrianna Faye Mendez
+### Date (Proposal Date)  : Nov 12, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
