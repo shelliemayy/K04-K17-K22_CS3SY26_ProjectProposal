@@ -1,3 +1,5 @@
+<img width="719" height="426" alt="Screenshot 2026-11-22 at 8 58 51 PM" src="https://github.com/user-attachments/assets/ef07d467-2861-4706-8752-63e55ed86cac" />
+<img width="719" height="426" alt="Screenshot 2026-11-22 at 8 58 51 PM" src="https://github.com/user-attachments/assets/abf4c800-97ba-4206-812b-e9fec852579a" />
 # CS3SY26_ProjectProposal by Clare Bron, Nathalie Lam, and Audrey Mendez of 9-Potassium
 
 Project Title or 
@@ -16,6 +18,8 @@ The system consists of a parent class, Partner, which contains shared attributes
 The expected outputs include character responses, love meter updates, and different story endings. Reaching Level 3 unlocks a proposal option, resulting in a good ending, while reaching Level 0 results in a breakup and a bad ending.
 The application targets teenagers and young adults who enjoy role-playing games, dating simulators, and interactive storytelling, particularly casual players seeking an accessible form of entertainment.
 
+<img width="719" height="426" alt="Screenshot 2026-11-22 at 8 58 51 PM" src="https://github.com/user-attachments/assets/d0407fe0-fd81-40c8-bb74-7915fb3310be" />
+
 Goals:
 
 In the long term, the project aims to provide users with an accessible and engaging form of entertainment through interactive storytelling and personalized gameplay. It also seeks to encourage creativity and exploration of different fictional personalities and relationship dynamics while demonstrating the practical application of object-oriented programming concepts.
@@ -28,10 +32,17 @@ Objective 3: Implement a functional love meter system that responds to player ch
 
 
 
+<img width="139" height="55" alt="Screenshot 2026-11-22 at 8 59 00 PM" src="https://github.com/user-attachments/assets/1bd82471-0cb0-410b-88dc-2e92b287a5b3" />
 
-_______________________   _______________________   _______________________
-      Joan Clare Bron	                 Nathalie Zhen Lam               Audrianna Faye Mendez
+Joan Clare Bron
 
+<img width="184" height="60" alt="Screenshot 2026-11-22 at 8 59 05 PM" src="https://github.com/user-attachments/assets/00791c55-48a4-404b-967a-312a7b0a9d00" />
+
+Nathalie Zhen Lam
+
+<img width="180" height="60" alt="12A9A02C-92AC-479B-9A20-B7BEC1465E1E" src="https://github.com/user-attachments/assets/e2041a45-c91d-46e7-8531-0252938603ec" />
+
+Audrianna Faye Mendez
 
 
 
