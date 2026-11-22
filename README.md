@@ -1,5 +1,4 @@
-<img width="719" height="426" alt="Screenshot 2026-11-22 at 8 58 51 PM" src="https://github.com/user-attachments/assets/ef07d467-2861-4706-8752-63e55ed86cac" />
-<img width="719" height="426" alt="Screenshot 2026-11-22 at 8 58 51 PM" src="https://github.com/user-attachments/assets/abf4c800-97ba-4206-812b-e9fec852579a" />
+
 # CS3SY26_ProjectProposal by Clare Bron, Nathalie Lam, and Audrey Mendez of 9-Potassium
 
 Project Title or 
